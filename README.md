@@ -14,7 +14,7 @@ I build projects in Python, Swift, Java, C++, & more. . I like my code clean, my
 
 Current mission: keep learning, keep building, and keep leveling up one commit at a time. 🚀
 
-- 🔭 I’m currently working on: A Tamagotchi inspired application 🐰 
+- 🔭 I’m currently working on: A pet desktop application 🐰 
 - 🌱 I’m currently learning: Advance Swift #️⃣ Calculus 🌐 Circuits & Raspberry Pi ⚡️ Physics ⚛️
 - ⚡ Fun facts: My favorite animal is a Unicorn 🦄 & My favorite Disney Character is Stitch 🛸
 - 🌈 Hobbies: Gaming 🕹️ Reading 📖 Cooking 👩🏻‍🍳 Gardening 🪴
